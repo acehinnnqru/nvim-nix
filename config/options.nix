@@ -1,7 +1,13 @@
 {...}:
 
 {
+  globals = {
+    mapleader = " ";
+    maplocalleader = " ";
+  };
+
   clipboard.register = "unnamedplus";
+
   opts = {
     mouse = "a";
 
